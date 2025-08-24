@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently 20 years old<br>👯 I’m looking for a Life that i can say i am proud of<br>🤝 I’m looking for help with programming and finding a intership<br>🌱 I’m currently learning C++, Java, C# and more<br>💬 Ask me about me if you are interested<br>⚡ Fun fact im the last star sign "bull"
+🔭 I’m currently 21 years old<br>👯 I’m looking for a Life that i can say i am proud of<br>🤝 I’m looking for help with programming and finding a intership<br>🌱 I’m currently learning C++, Java, C# and more<br>💬 Ask me about me if you are interested<br>⚡ Fun fact im the last star sign "bull"
 
 
 ## 🌐 Socials:
